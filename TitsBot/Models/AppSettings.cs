@@ -6,6 +6,6 @@ namespace TitsBot.Models
 {
     public static class AppSettings
     {
-        public static string Token { get; set; } = "965161554:AAEGPQGerpS5CwxMPQfdS6LboMkGuMz4_KQ";
+        public static string Token { get; set; } = "BOT TOKEN";
     }
 }
